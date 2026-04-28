@@ -307,11 +307,6 @@ Maintenant que la partie théorique est claire, nous allons passer à la démons
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
-
 ## 8. Les premières commandes Linux
 
 <div class="dt-card">
