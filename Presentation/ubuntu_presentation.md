@@ -124,16 +124,11 @@ style: |
 # **Présentation Ubuntu & Linux**
 ### **Installation d'Ubuntu sur une Machine Virtuelle**
 
-**Réalisée par :** Salma Akagou, Youssra Akagou, Fadna Lakhouchen, Ayoub Jlaita, Yasmine Haddad, Adnane  
+**Réalisée par :** Salma Akajou, Youssra Akajou, Fadna Lakhouchen, Ayoub Jalyta, Yasmine Haddad, Adnane ksksu
 **Encadré par :** M. ESSARRAJ Fouad  
 **Filière :** Développement Mobile
 
 ---
-
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 # Sommaire
 
@@ -150,10 +145,6 @@ style: |
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 ## 1. C'est quoi Linux ?
 
@@ -182,11 +173,6 @@ Contrairement à Windows, Linux n’appartient pas à une seule entreprise et so
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
-
 ## 2. C'est quoi Ubuntu ?
 
 <div class="dt-card">
@@ -207,11 +193,6 @@ Ubuntu est aujourd’hui largement utilisé dans les écoles, entreprises et ser
 </div>
 
 ---
-
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 ## 3. C'est quoi une Machine Virtuelle ?
 
@@ -237,11 +218,6 @@ Le logiciel qui permet cela s'appelle un **Hyperviseur**.
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
-
 ## 4. Pourquoi utiliser une Machine Virtuelle ?
 
 <div class="dt-card">
@@ -266,12 +242,6 @@ Les administrateurs systèmes travaillent énormément avec des VM.
 </div>
 
 ---
-
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
-
 ## 5. Les prérequis nécessaires
 
 <div class="dt-card">
@@ -295,10 +265,6 @@ Intel VT-x ou AMD-V doit être activé.
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 ## 6. C'est quoi un fichier ISO ?
 
@@ -320,11 +286,6 @@ Taille approximative : 4.7 Go
 </div>
 
 ---
-
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 ## 7. Passage à la pratique dans le Lab
 
@@ -381,10 +342,6 @@ Après installation, nous allons utiliser le Terminal Ubuntu.
 
 ---
 
-<div class="logo-header">
-  <img src="images/ofppt-logo.png">
-  <img src="images/logo-solicode.png">
-</div>
 
 # Conclusion
 
@@ -401,5 +358,8 @@ Après installation, nous allons utiliser le Terminal Ubuntu.
 La prochaine étape est de pratiquer directement sur Ubuntu afin de se familiariser avec l’environnement Linux.
 
 </div>
+
+---
+
 
 # Merci pour votre attention
